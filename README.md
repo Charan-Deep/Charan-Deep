@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning OOP in C++,
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me ....
-
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="charan-deep-04470b200" data-version="v1">My Linkedin Profile <a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/charan-deep-04470b200?trk=profile-badge">Charan Deep</a></div>
+              
 <!---
 Charan-Deep/Charan-Deep is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
