@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Charan-Deep
-- 👀 I’m interested in Apo Development, Web Development
+- 👀 I’m interested in App Development, Web Development
 - 🌱 I’m currently learning Web Development,
 - 💞️ I’m looking to collaborate on Python Projects and also Website projects
 - 📫 How to reach me ....
