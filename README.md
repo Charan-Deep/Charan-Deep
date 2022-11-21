@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Charan-Deep
-- 👀 I’m interested in Andriod Development
-- 🌱 I’m currently learning OOP in C++,
-- 💞️ I’m looking to collaborate on Python Projects
+- 👀 I’m interested in Apo Development, Web Development
+- 🌱 I’m currently learning Web Development,
+- 💞️ I’m looking to collaborate on Python Projects and also Website projects
 - 📫 How to reach me ....
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="VERTICAL" data-vanity="charan-deep-04470b200" data-version="v1">My Linkedin Profile <a class="badge-base__link LI-simple-link" href="https://pk.linkedin.com/in/charan-deep-04470b200?trk=profile-badge">Charan Deep</a></div>
               
@@ -20,11 +20,11 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan-deep" alt="charan-deep" /></a> </p>
 
-- 🌱 I’m currently learning **OOP in C++ ,**
+- 🌱 I’m currently learning **Web Development**
 
-- 👯 I’m looking to collaborate on **Python Projects**
+- 👯 I’m looking to collaborate on **Python Projects and also Website projects**
 
-- 💬 Ask me about **Python, HTML, CSS, Data Entry,**
+- 💬 Ask me about **Python, HTML, CSS, Javascript,**
 
 - 📫 How to reach me **charandeep736@gmail.com**
 
