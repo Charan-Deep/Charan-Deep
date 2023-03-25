@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charan-deep&label=Profile%20views&color=0e75b6&style=flat" alt="charan-deep" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=charan-deep" alt="charan-deep" /></a> </p>
+
 
 - 🔭 I’m currently working on **My Portfolio Website**
 
@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate on **Website Design Projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Charan-Deep?tab=repositories](https://github.com/Charan-Deep?tab=repositories)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/Charan-Deep?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@Charandeep](https://medium.com/@Charandeep)
+- 📝 I regularly write articles on [Medium](https://medium.com/@Charandeep)
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **charandeep736@gmail.com**
+- 📫 How to reach me **Linkedin**
 
-- 📄 Know about my experiences [https://charandeep.me/](https://charandeep.me/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/charan-deep-04470b200/)
 
 - ⚡ Fun fact **I am Funny**
 
