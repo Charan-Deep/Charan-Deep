@@ -17,9 +17,9 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **Linkedin**
+- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/charan-deep-04470b200/)
 
-- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/charan-deep-04470b200/)
+- 📄 Know about my experiences **Linkedin**
 
 - ⚡ Fun fact **I am Funny**
 
