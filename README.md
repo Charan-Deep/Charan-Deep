@@ -15,13 +15,13 @@
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@Charandeep)
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Web Development, Trading, Coding, Game Strategies, and My Learning Journey!**
 
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/charan-deep-04470b200/)
 
 - 📄 Know about my experiences **Linkedin**
 
-- ⚡ Fun fact **I am Funny**
+- ⚡ Fun fact **I'm not just a coder; I'm also a gamer. Whether it's dominating in PUBG, strategizing in chess, or solving Rubik's cubes, I love the thrill of both virtual and real-world challenges! 🎮♟️🧩**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
