@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Javascript**
 
-- 👯 I’m looking to collaborate on **Website Design Projects**
+- 👯 I’m looking to collaborate on **Innovative Website Design Projects**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/Charan-Deep?tab=repositories)
 
